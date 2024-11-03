@@ -1303,7 +1303,7 @@ input::-moz-focus-inner {
 }
 
 .display-1--light {
-  color: #ffffff;
+  color: #000000;
 }
 
 .display-2 {
@@ -1334,7 +1334,7 @@ input::-moz-focus-inner {
 }
 
 .subhead--dark {
-  color: #000000;
+  color: #474747;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1724,7 +1724,7 @@ input::-moz-focus-inner {
   font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
-  color: #39b54a;
+  color: #ffffff;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -2276,8 +2276,8 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 16.2rem;
   padding-bottom: 9rem;
-  background-color: #39b54a;
-  color: #010507;
+  background-color: #e0e0e0;
+  color: #474747;
   position: relative;
 }
 
@@ -2316,7 +2316,7 @@ html.no-csstransitions .home-content__main {
   font-family: "montserrat-bold", sans-serif;
   font-size: 8.4rem;
   line-height: 1;
-  color: #ffffff;
+  color: #000000;
   position: relative;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -3449,10 +3449,10 @@ footer .row {
   padding: 0;
   outline: 0;
   border: none;
-  width: 85px;
-  height: 28px;
+  width: 150px;
+  height: 40px;
   background: url("../images/logo-footer.png") no-repeat center;
-  background-size: 85px 28px;
+  background-size: 150px 40px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
